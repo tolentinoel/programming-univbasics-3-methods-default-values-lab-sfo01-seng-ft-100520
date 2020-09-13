@@ -7,4 +7,4 @@ def meal_choice(veg1, veg2, protein = "tofu")
  puts choice
 end
 
-puts meal_choice('potato', 'tomato', 'chicken')
+puts meal_choice('potato', 'tomato')
